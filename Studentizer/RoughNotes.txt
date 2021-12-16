@@ -1,2 +1,0 @@
-﻿To del every rows
-DELETE FROM TNAME WHERE = __condition__
