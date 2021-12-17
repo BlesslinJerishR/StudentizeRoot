@@ -63,7 +63,7 @@
                     <asp:Button ID="btnUpp" class="btn btn-primary" style="background: #00FFFF; color: #000; border: none;" Text="Update" runat="server" OnClick="btnUpper"/> &nbsp; &nbsp;&nbsp; 
                     <asp:Button class="btn btn-primary" style="background: #FF0000; border: none; " Text="Delete" runat="server" OnClick="btnDeleter" />
                 </div>
-    </div>
+            </div>
         <asp:SqlDataSource ID="SqlDataSource1" runat="server" ConnectionString="<%$ ConnectionStrings:StudentDBConnectionString %>" SelectCommand="SELECT * FROM [StudDetails]"></asp:SqlDataSource>
         <asp:GridView ID="GridView1" runat="server" BackColor="White" BorderColor="#999999" BorderStyle="Solid" BorderWidth="1px" CellPadding="30" ForeColor="Black" GridLines="Vertical" style="text-align: center; align-items: center; position: absolute; left: 4%; top: 470px;">
             <AlternatingRowStyle BackColor="#FFFF00" />
@@ -77,7 +77,7 @@
             <SortedDescendingHeaderStyle BackColor="#383838" />
         </asp:GridView>
     </form>
-    
+        
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.10.2/dist/umd/popper.min.js" integrity="sha384-7+zCNj/IqJ95wo16oMtfsKbZ9ccEh31eOz1HGyDuCQ6wgnyJNSYdrPa03rtR1zdB" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.min.js" integrity="sha384-QJHtvGhmr9XOIpI6YVutG+2QOK9T+ZnN4kzFN1RtK3zEFEIsxhlmWl5/YESvpZ13" crossorigin="anonymous"></script>
     </body>

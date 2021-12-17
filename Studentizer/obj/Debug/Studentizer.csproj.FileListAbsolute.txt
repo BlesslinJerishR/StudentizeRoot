@@ -52,8 +52,8 @@ C:\Users\blesslinj\source\repos\Studentizer\Studentizer\bin\roslyn\VBCSCompiler.
 C:\Users\blesslinj\source\repos\Studentizer\Studentizer\bin\roslyn\VBCSCompiler.exe.config
 C:\Users\blesslinj\source\repos\Studentizer\Studentizer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 C:\Users\blesslinj\source\repos\Studentizer\Studentizer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\blesslinj\source\repos\Studentizer\Studentizer\obj\Debug\Studentizer.csproj.AssemblyReference.cache
 C:\Users\blesslinj\source\repos\Studentizer\Studentizer\obj\Debug\Studentizer.csproj.CoreCompileInputs.cache
 C:\Users\blesslinj\source\repos\Studentizer\Studentizer\obj\Debug\Studentizer.csproj.CopyComplete
 C:\Users\blesslinj\source\repos\Studentizer\Studentizer\obj\Debug\Studentizer.dll
 C:\Users\blesslinj\source\repos\Studentizer\Studentizer\obj\Debug\Studentizer.pdb
-C:\Users\blesslinj\source\repos\Studentizer\Studentizer\obj\Debug\Studentizer.csproj.AssemblyReference.cache
